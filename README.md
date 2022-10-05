@@ -1,5 +1,7 @@
 THIS IS MY ATTEMPT AT BUILDING THE DATABASE STRUCTURE OF AN ECOMMERCE WEB APPLICATION.
+
 I. STRUCTURAL BUSINESS RULES
+
 IDENTIFIABLE ENTITIES:
 • SELLER • CUSTOMER • PRODUCT • CATEGORY • ORDER • PACKAGE • RECEIPT
 
@@ -34,6 +36,9 @@ There cannot be an empty Category.
 A Package can exist if an only if an existing Product is part of an Order.
 
 II. CONCEPTUAL ERD / EERD
-<img width="182" alt="Screenshot 2022-10-05 at 11 43 02 AM" src="https://user-images.githubusercontent.com/67741954/194103331-0b829176-6e43-494e-8a18-b7e1249a8a43.png">
+
+<img width="767" alt="Screenshot 2022-10-05 at 11 44 16 AM" src="https://user-images.githubusercontent.com/67741954/194103583-725113c7-fe73-4766-b034-d6980b9f43b1.png">
 
 III. LOGICAL ERD / EERD
+
+<img width="765" alt="Screenshot 2022-10-05 at 11 44 36 AM" src="https://user-images.githubusercontent.com/67741954/194103661-0f7d55df-ccb4-4a2d-8d38-f2e92a40a388.png">
